@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "com.demo.userreg.config.ConfigProperties",
+      "sourceType": "com.demo.userreg.config.ConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.client-id",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.userreg.config.ConfigProperties"
+    },
+    {
+      "name": "app.client-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.userreg.config.ConfigProperties"
+    },
+    {
+      "name": "app.imgur-delete-url",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.userreg.config.ConfigProperties"
+    },
+    {
+      "name": "app.imgur-upload-url",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.userreg.config.ConfigProperties"
+    },
+    {
+      "name": "app.imgur-view-url",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.userreg.config.ConfigProperties"
+    },
+    {
+      "name": "app.swagger-url",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.userreg.config.ConfigProperties"
+    },
+    {
+      "name": "app.timeout",
+      "type": "java.lang.Long",
+      "sourceType": "com.demo.userreg.config.ConfigProperties"
+    }
+  ],
+  "hints": []
+}
